@@ -94,3 +94,20 @@
     padding: 100px;
 
 }
+#div6{
+    display:flex;
+    gap: 10%;
+}
+#div7{
+    text-align: center;
+}
+.image5{
+    width: 350px;
+    height: 500px;
+}
+#last{
+    display: flex;
+}
+#section3{
+    padding-top: 50px;
+}
