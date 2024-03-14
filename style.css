@@ -1,0 +1,96 @@
+#link{
+    display: flex;
+    gap: 7%;
+}
+#iconsbar{
+    display: flex;
+    gap: 7%;
+}
+.icon{
+    width: 30px;
+    height: 30px;
+}
+#navbar{
+    display: flex;
+    gap: 39%;
+}
+.text{
+    font-size: 50px;
+}
+#section{
+    display: flex;
+    gap: 25%;
+    padding:70px;
+}
+.image{
+    height:200px;
+    width: 400px;
+
+}
+#section1{
+    display: flex;
+    gap: 25%;
+}
+#insidediv{
+    height:200px;
+    width: 400px;
+    text-align: center;
+}
+#div{
+    display: flex;
+    gap: 10%;
+    padding: 40px;
+}
+#div1{
+    display:flex;
+    gap: 30%;
+    margin: 10%;
+    padding: 10px;
+}
+.image2{
+    height: 600px;
+    width: 400px;
+}
+#div2{
+    display: flex;
+    gap: 2%;
+    padding: 15px;
+}
+.button1{
+    background-color: rgb(23, 124, 124);
+    color: white;
+    position: absolute;
+    width: 60px;
+    padding: 9px;
+}
+.image3{
+    height: 400px;
+    width: 500px;
+}
+#div3{
+    height: 400px;
+    width: 200px;
+    text-align: center;
+}
+#div4{
+    display: flex;
+}
+#div5{
+    display: flex;
+    gap :20%;
+    padding-top: 50px;
+
+}
+.image4{
+    width: 500px;
+    height: 600px;
+}
+#image5{
+    width: 700px;
+}
+#section2{
+    display: flex;
+    gap: 30%;
+    padding: 100px;
+
+}
