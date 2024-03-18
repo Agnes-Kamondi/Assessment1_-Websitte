@@ -134,3 +134,166 @@
     background-color: black;
     color: white;
 }
+.imagetraced{
+    width: 800px;
+}
+@media screen and (min-width: 320px) and (max-width : 480px) {
+      body{
+        font-size: 10px;
+      }
+      #link{
+        display: flex;
+        gap: 10%;
+        padding:20px;
+    }
+    #iconsbar{
+        display: flex;
+        gap: 20%;
+        padding: 20px;
+    }
+    .icon{
+        width: 20px;
+        height: 20px;
+    }
+    #navbar{
+        display: flex;
+        gap: 10%;
+        flex-wrap: wrap;
+    }
+    .text{
+        font-size: 20px;
+    }
+    #section{
+        display: flex;
+        gap: 7%;
+        padding:20px;
+        margin-left: 1px;
+    }
+    .image{
+        height:100px;
+        width: 70px;
+    
+    }
+    #section1{
+        display: flex;
+        gap: 1%;
+    }
+    #insidediv{
+        height:150px;
+        width: 100px;
+        text-align: center;
+        margin-right: 10%;
+     
+    }
+    #div{
+        display: flex;
+        gap: 1%;
+        padding: 20px;
+    }
+    #div2{
+        display: flex;
+        flex-direction: column;
+    }
+    #div1{
+        display:flex;
+        gap: 30%;
+        margin: 10%;
+        padding: 10px;
+    }
+    .image2{
+        height: 400px;
+        width: 340px;
+    }
+    #div2{
+        display: flex;
+        gap: 2%;
+        padding: 15px;
+    }
+    .button1{
+        background-color: rgb(23, 124, 124);
+        color: white;
+        position: absolute;
+        width: 60px;
+        padding: 9px;
+        font-size: 10px;
+    }
+    .image3{
+        height: 300px;
+        width: 200px;
+    }
+    #div3{
+        height: 400px;
+        width: 150px;
+        text-align: center;
+    }
+    #div4{
+        display: flex;
+        gap: 1%;
+    }
+    #div5{
+        display: flex;
+        flex-direction: column;
+        gap :20%;
+        padding-top: 50px;
+    
+    }
+    .image4{
+        width: 350px;
+        height: 400px;
+    }
+    #image5{
+        width: 200px;
+    }
+    #section2{
+        display: flex;
+        gap: 10%;
+        padding: 20px;
+    
+    }
+    #div6{
+        display:flex;
+        flex-direction: column;
+        gap: 10%;
+    }
+    #div7{
+        text-align: center;
+    }
+    .image5{
+        width: 350px;
+        height: 500px;
+    }
+    #last{
+        display: flex;
+        flex-direction: column;
+    }
+    #section3{
+        padding-top: 50px;
+    }
+    #footericons{
+        display: flex;
+        gap:3%;
+    }
+    #section4{
+        display: flex;
+        gap: 5%;
+        padding: 7%;
+    }
+    .button{
+        padding: 5px;
+        width: 80px;
+    
+    }
+    #submit{
+        width: 90px;
+        padding : 5px;
+        background-color: black;
+        color: white;
+
+}
+    .imagetraced{
+        width: 300px;
+    }
+    .blouse{
+        width: 200px;
+        height: 200px;
+    }
